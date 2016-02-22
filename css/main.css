@@ -80,6 +80,7 @@ h5 {
 
 body {
   margin: 0;
+  font-family: "georgia" serif;
 }
 
 main {
@@ -90,4 +91,8 @@ main {
 figure {
   margin: 0;
   padding: .5em;
+}
+
+.nav .current {
+  background-color: #cc1465;
 }
